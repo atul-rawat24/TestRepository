@@ -17,4 +17,11 @@
 			</sequence>
 		</complexType>
 	</element>
+	<element name="TestElement">
+		<complexType>
+			<sequence>
+				<element name="Test1" type="string"/>
+			</sequence>
+		</complexType>
+	</element>
 </schema>
